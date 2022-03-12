@@ -1,0 +1,45 @@
+1|Hedva|[]|40
+2|Linear Algebra|[]|40
+3|physics|[]|40
+4|How to grow grass|[]|40
+18|Analitic Mechanic|[]|40
+19|How to sing like NechiNech|[]|40
+20|How to sing like TUNA|[]|40
+21|Hedva 5|[]|40
+22|Big city life|[]|40
+5|Starwars 1|[]|40
+6|Hedva 2|[]|40
+7|Linear Algebra 2|[]|40
+8|physics 2|[]|40
+44|Thermodynamic 1|[1,2,3]|40
+45|Thermodynamic 2|[1,2,3]|40
+10|Computers|[]|40
+11|Hedva 3|[]|40
+12|IPhone12|[]|40
+13|physics 3|[]|40
+14|How to grow grass 7|[]|40
+15|Starwars 2|[]|40
+9|Rick and Murty life|[]|40
+25|Yoga - live right 17|[]|40
+26|Hedva 6|[]|40
+27|How to be Einstain|[]|40
+28|Quantom Mechanics 2|[]|40
+29|How to fly|[]|40
+30|Yoga - live right 10|[1,2,3]|40
+31|Hedva 7|[4,5,6]|40
+32|SQL|[7,8,9]|40
+33|Quantom Mechanics 2|[1,2,3]|40
+34|How to grow grass 3|[1,2,3]|40
+35|Probability|[1,2,3]|40
+36|Hedva 8|[1,2,3]|40
+37|Introduction to computer science|[1,2,3]|40
+38|Quantum Fields|[1,2,3]|40
+39|Astro Physics|[1,2,3]|40
+40|SPL|[1,2,3]|40
+41|Hedva 9|[1,2,3]|40
+42|Logics|[1,2,3]|40
+43|Electro Dynamics|[1,2,3]|40
+16|Hedva 4|[]|40
+17|SouthPark|[]|40
+23|Quantom Mechanics 1|[]|40
+24|How to grow grass 4|[]|40
