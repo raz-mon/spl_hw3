@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spl211/CLionProjects/spl-hw3/Tests/include/SemiUserConnection.h
+regConnectionHandler.h
+/home/spl211/CLionProjects/spl-hw3/Tests/include/regConnectionHandler.h
+iostream
+-
+mutex
+-
+regConnectionHandler.h
+/home/spl211/CLionProjects/spl-hw3/Tests/include/regConnectionHandler.h
+
+/home/spl211/CLionProjects/spl-hw3/Tests/include/regConnectionHandler.h
+string
+-
+iostream
+-
+boost/asio.hpp
+-
+
+/home/spl211/CLionProjects/spl-hw3/Tests/src/SemiUserConnection.cpp
+../include/SemiUserConnection.h
+/home/spl211/CLionProjects/spl-hw3/Tests/include/SemiUserConnection.h
+thread
+-
+mutex
+-
+iostream
+-
+utility
+-
+random
+-
+

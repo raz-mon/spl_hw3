@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/HW3.dir/src/registrationClient.cpp.o CMakeFiles/HW3.dir/src/regConnectionHandler.cpp.o CMakeFiles/HW3.dir/src/regHelpers.cpp.o CMakeFiles/HW3.dir/src/ServerConnection.cpp.o CMakeFiles/HW3.dir/src/UserConnection.cpp.o  -o HW3  /usr/lib/x86_64-linux-gnu/libboost_system.a 
